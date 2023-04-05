@@ -1,0 +1,9 @@
+READ ME
+Design a neural network (the choice of implementation model can be pytorch, tensorflow or the whitebox model) for the data set shared in the ML lab assignment for neural networks. 
+
+Develop individual code base using following algorithms for weight optimization:
+
+    Genetic Algorithm
+    Cultural Algorithm
+    Particle Swarm Optimization
+    Ant Colony Optimization
